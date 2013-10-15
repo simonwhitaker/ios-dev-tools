@@ -1,6 +1,6 @@
 # iOS Dev Tools
 
-Stuff I use on a daily basis.
+A list of the stuff I use on a daily basis.
 
 ## Editing code
 
@@ -28,7 +28,7 @@ I don't use a lot of Xcode plugins, but these ones are useful enough to have bee
 
 ## Debugging web services
 
-* I use [Charles Proxy](http://www.charlesproxy.com) to see what's happening on the network when an app is running. (See [Using Charles from an iPhone](http://www.charlesproxy.com/documentation/faqs/using-charles-from-an-iphone/) for instructions on how to do that)
+* I use [Charles Proxy](http://www.charlesproxy.com) to see what's happening on the network when an app is running. (See [Using Charles from an iPhone](http://www.charlesproxy.com/documentation/faqs/using-charles-from-an-iphone/) for instructions on how to see the traffic going to and from a local device.)
 * [Postman for Chrome](http://www.getpostman.com) is an HTTP client for testing RESTful web services. I use this a *lot*.
 * [jq](http://stedolan.github.io/jq/) is a command-line JSON parser and mangler. It takes some learning, but it's a great tool for picking the stuff you care about out of a big load of JSON. (Tip: pipe a JSON stream through `jq '.'` to format it.)
 
