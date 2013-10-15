@@ -1,6 +1,6 @@
 # iOS Dev Tools
 
-A list of the stuff I use on a daily basis.
+The software I use when I'm writing software.
 
 ## Editing code
 
